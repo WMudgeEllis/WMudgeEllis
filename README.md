@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![Weston's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMudgeEllis)](https://github.com/WMudgeEllis/github-readme-stats)
 <!--
 **WMudgeEllis/WMudgeEllis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
